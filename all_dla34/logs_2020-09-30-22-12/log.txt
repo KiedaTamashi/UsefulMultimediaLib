@@ -1,0 +1,7 @@
+2020-09-30-23-58: epoch: 1 |loss 24.203021 | hm_loss 2.859649 | wh_loss 7.727301 | off_loss 0.252387 | id_loss 9.308216 | time 106.183333 | 
+2020-10-01-01-45: epoch: 2 |loss 19.637306 | hm_loss 1.922857 | wh_loss 4.250239 | off_loss 0.243916 | id_loss 8.990339 | time 105.683333 | 
+2020-10-01-03-31: epoch: 3 |loss 17.454839 | hm_loss 1.513787 | wh_loss 2.999198 | off_loss 0.237077 | id_loss 8.666931 | time 105.600000 | 
+2020-10-01-05-18: epoch: 4 |loss 16.307863 | hm_loss 1.346834 | wh_loss 2.626441 | off_loss 0.233743 | id_loss 8.326129 | time 105.650000 | 
+2020-10-01-07-04: epoch: 5 |loss 15.198154 | hm_loss 1.183827 | wh_loss 2.304541 | off_loss 0.230204 | id_loss 7.991767 | time 105.583333 | 
+2020-10-01-08-51: epoch: 6 |loss 15.132971 | hm_loss 1.226631 | wh_loss 2.387980 | off_loss 0.230843 | id_loss 7.830893 | time 105.666667 | 
+2020-10-01-10-38: epoch: 7 |loss 14.890632 | hm_loss 1.237207 | wh_loss 2.396676 | off_loss 0.230615 | id_loss 7.636320 | time 105.650000 | 
